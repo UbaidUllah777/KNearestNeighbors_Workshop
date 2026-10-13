@@ -5,9 +5,9 @@
 **Team:** Team 2  
 **Student Names and IDs:**
 - Ubaid Ullah — 9110715
-- Sukh -
-- Koushik -
-- Ved -
+- Sukhchain Singh - 9111541
+- Koushik Balne - 9087547
+- Ved Vishal Patel - 9111628
 
 
 **Workshop:** K-Nearest Neighbors Classification  
