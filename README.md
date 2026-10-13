@@ -176,6 +176,8 @@ python -m pip install -r requirements.txt
 
 Create a `.env` file in the project root containing:
 
+`Note: For professor i will send env zip file in email , please paste in in root folder after extracting the env zip file`
+
 ```dotenv
 DATABASE_URL=your_neon_postgresql_connection_string
 ```
